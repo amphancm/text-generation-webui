@@ -1,5 +1,5 @@
 # PyTorch for Jetson
-https://pypi.jetson-ai-lab.dev/jp6/cu126/+f/5cf/9ed17e35cb752/torch-2.5.0-cp310-cp310-linux_aarch64.whl
+#https://pypi.jetson-ai-lab.dev/jp6/cu126/+f/5cf/9ed17e35cb752/torch-2.5.0-cp310-cp310-linux_aarch64.whl
 
 accelerate==1.8.*
 audioop-lts<1.0; python_version >= "3.13"
